@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aihohdohzu.nullsoul.com/sitemap.xml
